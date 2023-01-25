@@ -1,4 +1,4 @@
-# 3D-Printed-CNC
+# 3D Printed CNC
 This is a 3D Printable CNC machine.
 
 Full Open Source for anyone to use.
