@@ -1,5 +1,5 @@
 # 3D Printed CNC
-This is a 3D Printable CNC machine.
+This is a 3D Printable CNC machine. I am still working on adding all the wiring, cable chains and endstops.
 
 Full Open Source for anyone to use.
 
