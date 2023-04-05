@@ -7,4 +7,4 @@ Full Open Source for anyone to use.
 
 You can scale the size by changing the length of the Extrusions, Linear Rails and Ball Screws to the size you want. All the 3D Printed parts will be the same.
 
-![image](./Images/CNCBuild.png)
+![3dthat 3d Printed CNC](https://github.com/3Dthat/3D-Printed-CNC/blob/3Dthat/Images/CNCBuild.PNG)
